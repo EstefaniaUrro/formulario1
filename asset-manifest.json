@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/formulario1/static/css/main.523f09c5.chunk.css",
+    "main.js": "/formulario1/static/js/main.7dd3d0e5.chunk.js",
+    "main.js.map": "/formulario1/static/js/main.7dd3d0e5.chunk.js.map",
+    "runtime-main.js": "/formulario1/static/js/runtime-main.ed47eeda.js",
+    "runtime-main.js.map": "/formulario1/static/js/runtime-main.ed47eeda.js.map",
+    "static/js/2.9534531a.chunk.js": "/formulario1/static/js/2.9534531a.chunk.js",
+    "static/js/2.9534531a.chunk.js.map": "/formulario1/static/js/2.9534531a.chunk.js.map",
+    "index.html": "/formulario1/index.html",
+    "precache-manifest.04c34c792d67a05b6819974e6ba6615a.js": "/formulario1/precache-manifest.04c34c792d67a05b6819974e6ba6615a.js",
+    "service-worker.js": "/formulario1/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/formulario1/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.9534531a.chunk.js.LICENSE.txt": "/formulario1/static/js/2.9534531a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed47eeda.js",
+    "static/js/2.9534531a.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.7dd3d0e5.chunk.js"
+  ]
+}
