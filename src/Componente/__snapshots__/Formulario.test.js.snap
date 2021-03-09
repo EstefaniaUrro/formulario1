@@ -1,0 +1,117 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Presentaciones se visualiza bien 1`] = `
+<div
+  className="container"
+>
+  <h1>
+    Formulario
+  </h1>
+  <form>
+    <div
+      className="form-group"
+    >
+      <label
+        htmlFor="nombre"
+      >
+        Nombre
+      </label>
+      <input
+        className="form-control"
+        id="nombre"
+        name="nombre"
+        onChange={[Function]}
+        placeholder="Ingrese un nombre"
+        type="text"
+        value="un nombre"
+      />
+    </div>
+    <div
+      className="form-group"
+    >
+      <label
+        htmlFor="correo"
+      >
+        Correo Electronico
+      </label>
+      <input
+        className="form-control"
+        id="correo"
+        name="correo"
+        onChange={[Function]}
+        placeholder="Ingrese un correo electronico"
+        type="email"
+        value=""
+      />
+    </div>
+    <div
+      className="form-check"
+    >
+      <input
+        className="form-check-input"
+        id="isActive"
+        onChange={[Function]}
+        type="checkbox"
+        value={true}
+      />
+      <label
+        className="form-check-label"
+        htmlFor="isActive"
+      >
+        Activado
+      </label>
+    </div>
+    <div
+      className="form-group"
+    >
+      <label
+        htmlFor="fruta"
+      >
+         Fruta favorito
+      </label>
+      <select
+        className="form-control"
+        id="fruta"
+        onChange={[Function]}
+        value="mango"
+      >
+        <option>
+          Seleccionar
+        </option>
+        <option
+          value="fresa"
+        >
+          Fresa
+        </option>
+        <option
+          value="mora"
+        >
+          Mora
+        </option>
+        <option
+          value="mango"
+        >
+          Mango
+        </option>
+        <option
+          value="maracuya"
+        >
+          Maracuya
+        </option>
+        <option
+          value="limon"
+        >
+          Limón
+        </option>
+      </select>
+    </div>
+    <button
+      className="btn btn-primary"
+      onClick={[Function]}
+      type="button"
+    >
+      Enviar
+    </button>
+  </form>
+</div>
+`;
